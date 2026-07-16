@@ -1,4 +1,4 @@
-const base={descripcionCompleta:'Una pieza creada especialmente para tu evento, respetando su estilo, paleta y personalidad.',imagenes:['placeholder-1','placeholder-2','placeholder-3'],formatoEntrega:'PDF en alta calidad listo para imprimir',correccionesIncluidas:2,tiempoDiseno:'7 a 10 días hábiles',destacado:false,activo:true};
+const base={descripcionCompleta:'Una pieza creada especialmente para tu evento, respetando su estilo, paleta y personalidad.',imagenes:[],formatoEntrega:'PDF en alta calidad listo para imprimir',correccionesIncluidas:2,tiempoDiseno:'7 a 10 días hábiles',destacado:false,activo:true};
 const items=[
 ['cartel-bienvenida','Cartel de bienvenida','La primera impresión de tu celebración.',18500,'bodas','50 × 70 cm'],
 ['menu-individual','Menú individual','Cada detalle, servido con intención.',9800,'bodas','10 × 21 cm'],
