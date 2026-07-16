@@ -1,0 +1,22 @@
+.admin-nav-link{display:flex;align-items:center;gap:6px;color:#a26069!important;font-weight:700}.admin-nav-link svg{flex:none}
+.hero{background:linear-gradient(115deg,var(--cream) 64%,#f3c7cf 64%)}
+.parallax-image{will-change:transform;transition:transform .08s linear}
+.hero-actions .btn.primary{background:#30b8a1;border-color:#30b8a1;color:#fff}.hero-actions .btn.primary:hover{background:#29a790;border-color:#29a790;color:#fff}.hero-actions .btn.secondary{background:transparent;border-color:#30b8a1;color:#41413f}.hero-actions .btn.secondary:hover{background:rgba(48,184,161,.1);border-color:#30b8a1;color:#31413e}.hero h1 em{color:#30b8a1}
+.catalog .section-head .eyebrow{display:none}.catalog .section-head h2 em{color:#30b8a1}
+.combos-section{background:#30b8a1}.combos-section .section-head .eyebrow{display:none}.combos-section .section-head h2,.combos-section .section-head>p{color:#35413f}.combos-section .section-head h2 em{color:#fff}
+@media(max-width:760px){.hero{background:var(--cream)}}
+:root{--ink:#41413f}
+.how{background:linear-gradient(90deg,rgba(252,250,246,.94) 0%,rgba(252,250,246,.84) 34%,rgba(252,250,246,.62) 100%),url('/images/como-funciona-escritorio.png') center/cover no-repeat}
+.steps article>small{display:none}
+.steps article>span{background:transparent;border-radius:0;width:auto;height:auto;display:block}
+input[type='number']{-moz-appearance:textfield}input[type='number']::-webkit-inner-spin-button,input[type='number']::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}
+.steps article{--step-color:#30b8a1;position:relative;overflow:hidden;background:rgba(255,255,255,.9);border-radius:26px 8px 26px 8px;padding:30px;box-shadow:0 18px 38px rgba(52,62,58,.18),0 4px 10px rgba(52,62,58,.08);transition:transform .25s ease,box-shadow .25s ease}.steps article::before{content:'';position:absolute;inset:0 auto auto 0;width:100%;height:6px;background:var(--step-color)}.steps article:nth-child(1){--step-color:#e77e94}.steps article:nth-child(2){--step-color:#30b8a1;transform:translateY(18px)}.steps article:nth-child(3){--step-color:#e2bb37}.steps article:nth-child(4){--step-color:#8d78b8;transform:translateY(18px)}.steps article:hover{box-shadow:0 24px 48px rgba(52,62,58,.23),0 6px 14px rgba(52,62,58,.1)}.steps article>span svg{color:var(--step-color);width:30px;height:30px;stroke-width:2.1}
+@font-face{font-family:'Paper Notes';src:url('/fonts/papernotes/Papernotes.woff2') format('woff2'),url('/fonts/papernotes/PapernotesRegular.woff') format('woff');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:'Paper Notes';src:url('/fonts/papernotes/Papernotes%20Bold.woff2') format('woff2'),url('/fonts/papernotes/PapernotesBold.woff') format('woff');font-weight:700;font-style:normal;font-display:swap}
+@font-face{font-family:'Pillow Talk';src:url('/fonts/pillow-talk/Pillow%20Talk.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap}
+h1,h2,h3,h4{font-family:'Quicksand','DM Sans',sans-serif}
+.hero h1 em,.section h2 em,.how h2 em,.custom-mark,.image-placeholder span{font-family:'Caveat',cursive;font-style:normal;font-weight:500}
+.combo-card:not(.custom) .btn{width:auto;min-height:40px;padding:0 16px;font-size:11px;align-self:flex-start}.combo-card.featured:not(.custom) .btn{background:rgba(255,255,255,.06)}
+footer{background:#176f65}.footer-main h4{color:#fff}.footer-main a:not(.brand),.footer-main>div>p{color:#e1f1ed}.footer-bottom{border-color:rgba(255,255,255,.25);color:#c5dfda}
+footer .footer-logo img{width:190px;height:auto;filter:none;border-radius:0}
+@media(max-width:760px){.steps article:nth-child(2),.steps article:nth-child(4){transform:none}.how{background:linear-gradient(rgba(252,250,246,.82),rgba(252,250,246,.9)),url('/images/como-funciona-escritorio.png') center/cover no-repeat}}
