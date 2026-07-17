@@ -3,6 +3,7 @@
 .parallax-image{will-change:transform;transition:transform .08s linear}
 .hero-actions .btn.primary{background:#30b8a1;border-color:#30b8a1;color:#fff}.hero-actions .btn.primary:hover{background:#29a790;border-color:#29a790;color:#fff}.hero-actions .btn.secondary{background:transparent;border-color:#30b8a1;color:#41413f}.hero-actions .btn.secondary:hover{background:rgba(48,184,161,.1);border-color:#30b8a1;color:#31413e}.hero h1 em{color:#30b8a1}
 .catalog .section-head .eyebrow{display:none}.catalog .section-head h2 em{color:#30b8a1}
+.catalog-empty{min-height:260px;border-radius:24px;background:linear-gradient(135deg,#fff2f3,#edf5ee);display:grid;place-content:center;text-align:center;padding:38px}.catalog-empty span{font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#30a58f}.catalog-empty h3{font-size:25px;margin:12px 0 7px}.catalog-empty p{margin:0;color:var(--muted)}
 .combos-section{background:#30b8a1}.combos-section .section-head .eyebrow{display:none}.combos-section .section-head h2,.combos-section .section-head>p{color:#35413f}.combos-section .section-head h2 em{color:#fff}
 @media(max-width:760px){.hero{background:var(--cream)}}
 :root{--ink:#41413f}
